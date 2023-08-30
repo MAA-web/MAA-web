@@ -7,4 +7,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MAA-web&theme=dracula)](https://git.io/streak-stats)
 
-The best way to contact me is to use my email address which is present at the top of most calibre or kitty source code files.
+The best way to contact me is to use my email address zigzag42471129@gmail.com
