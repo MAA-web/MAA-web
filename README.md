@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mian Ali Ahmed hence the MAA if you were wondering
+I am Mian Ali Ahmed hence the MAA, _if you were wondering_\
 I like hacking and AI
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MAA-web&theme=dracula)](https://git.io/streak-stats)
